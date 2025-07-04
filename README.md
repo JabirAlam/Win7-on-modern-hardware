@@ -11,7 +11,7 @@ PREREQUISITES:
 
 Rufus
 
-A Windows 7 ISO
+A Windows 7 ISO (You can download one from the releases section if you are using x64 architecture.)
 
 A CSM-compatible BIOS and motherboard (this can be skipped but will need to be patched with UEFISeven.)
 
